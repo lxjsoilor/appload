@@ -12,7 +12,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://app.lbdfun.com/lbdApp/resources/padmin/file/iPhone.hyd_resigned.ipa</string>
+					<string>http://app.lbdfun.com/lbdApp/resources/padmin/file/iPhone.hyd_resigned.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -20,7 +20,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://app.lbdfun.com/group1/M05/0C/DD/rBIF-lutoaSAG1znAABvAAuiPTs758.png</string>
+					<string>http://app.lbdfun.com/group1/M05/0C/DD/rBIF-lutoaSAG1znAABvAAuiPTs758.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -28,7 +28,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://app.lbdfun.com/group1/M05/0C/DD/rBIF-lutoaSAG1znAABvAAuiPTs758.png</string>
+					<string>http://app.lbdfun.com/group1/M05/0C/DD/rBIF-lutoaSAG1znAABvAAuiPTs758.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
